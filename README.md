@@ -1,4 +1,4 @@
-# Product Brand and Category Analysis Tool
+# Sephora Product Brand and Category Analysis Tool
 
 This project provides a graphical user interface (GUI) for analyzing product brand data and their respective reviews. Using Python libraries like Pandas, Matplotlib, and Tkinter, the tool allows users to explore product brands, categories, and detailed information about popular products.
 
@@ -66,6 +66,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - Special thanks to the contributors who provided the dataset and tools used in this project.
 - This project utilizes the following libraries: Pandas, Matplotlib, Pillow, and Tkinter.
+
+
+
 
 
 # Sephora Product Recommendation System
