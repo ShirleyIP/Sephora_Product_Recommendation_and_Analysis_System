@@ -1,4 +1,4 @@
-# Product Recommendation System
+# Sephora Product Recommendation System
 
 ## Overview
 
